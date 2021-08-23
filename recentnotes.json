@@ -1,5 +1,85 @@
 [
     {
+        "./Towards_Total_Recall_in_Industrial_Anomaly_Detection": [
+            0,
+            0,
+            100,
+            0,
+            0,
+            false,
+            0,
+            false,
+            0,
+            false,
+            false,
+            false,
+            "000000ff0000000100000002000005d0000001740000000001000000000101"
+        ],
+        "~entry": "Towards_Total_Recall_in_Industrial_Anomaly_Detection",
+        "~id": "{d395aa1f-a8ba-4983-889f-286f7d4019b2}",
+        "~mod": "2021-08-23 18:11:55"
+    },
+    {
+        "./": [
+            0,
+            0,
+            100,
+            0,
+            0,
+            false,
+            0,
+            false,
+            0,
+            false,
+            false,
+            false,
+            ""
+        ],
+        "~entry": "C:/Users/Admin/Desktop/Towards_Total_Recall_in_Industrial_Anomaly_Detection.bpkg",
+        "~id": "28e85bcf02b1c4346b34c393e3603c9f",
+        "~mod": "2021-08-23 18:08:11"
+    },
+    {
+        "./": [
+            0,
+            0,
+            100,
+            0,
+            0,
+            false,
+            0,
+            false,
+            0,
+            false,
+            false,
+            false,
+            ""
+        ],
+        "~entry": "C:/Users/Admin/Desktop/Towards_Total_Recall_in_Industrial_Anomaly_Detection.bpkg",
+        "~id": "3f29a2e41a10e464a2c6c99139dd681e",
+        "~mod": "2021-08-23 18:07:21"
+    },
+    {
+        "./CFLOW-AD Real-Time Unsupervised Anomaly Detection with Localization via Conditional Normalizing Flows_2021": [
+            0,
+            0,
+            100,
+            0,
+            0,
+            false,
+            0,
+            false,
+            0,
+            false,
+            false,
+            true,
+            "000000ff0000000100000002000005ec000001570000000001000000000101"
+        ],
+        "~entry": "CFLOW-AD Real-Time Unsupervised Anomaly Detection with Localization via Conditional Normalizing Flows_2021",
+        "~id": "{0cf9de71-a312-46a0-88ff-c77f65127d00}",
+        "~mod": "2021-08-23 18:05:23"
+    },
+    {
         "./Divide_and_Assemble_Learning_Block-wise_Memory_for_Unsupervise_ Anomal_Detection": [
             0,
             0,
@@ -38,45 +118,5 @@
         "~entry": "Explainable Deep One-Class Classification_2020",
         "~id": "{70520712-7bcd-489f-90b1-464538fb354d}",
         "~mod": "2021-08-23 10:08:29"
-    },
-    {
-        "./Towards_Total_Recall_in_Industrial_Anomaly_Detection": [
-            0,
-            0,
-            100,
-            0,
-            0,
-            false,
-            0,
-            false,
-            0,
-            false,
-            false,
-            false,
-            "000000ff0000000100000002000005d0000001740000000001000000000101"
-        ],
-        "~entry": "Towards_Total_Recall_in_Industrial_Anomaly_Detection",
-        "~id": "{d395aa1f-a8ba-4983-889f-286f7d4019b2}",
-        "~mod": "2021-08-23 10:08:29"
-    },
-    {
-        "./软件调试的艺术": [
-            0,
-            0,
-            100,
-            0,
-            0,
-            false,
-            0,
-            false,
-            0,
-            false,
-            true,
-            false,
-            "000000ff0000000100000002000005d0000001740000000001000000000101"
-        ],
-        "~entry": "软件调试的艺术",
-        "~id": "{27ed3e74-620a-4cce-9fca-2dae016da006}",
-        "~mod": "2021-08-18 14:07:40"
     }
 ]
